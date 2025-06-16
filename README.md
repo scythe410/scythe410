@@ -1,4 +1,6 @@
-## Hi, I'm Ramiru
+## Hi, I'm Ramiru 😊
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+exploring+new+tech.+🌌;Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="cfe.gif" alt="into gif">
