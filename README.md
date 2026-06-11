@@ -43,3 +43,20 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 </div>
   
+
+
+## Project Showcase
+
+<div align="center">
+
+| Project | Description | Technologies | Live Link |
+| :--- | :--- | :--- | :---: |
+| **AutoSight** | Sri Lankan vehicle price prediction & image-based damage assessment engine automated bi-weekly retraining CI/CD pipeline. | `Pandas, Scikit-learn` `SegFormer` `YOLO` `XGBoost` `LightGBM` `Gemini Flash 2.5` `HuggingFace Spaces` `Github Actions` | <a href="https://dsgp-group07.vercel.app/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **VectorScape** | Interactive 3D embedding space explorer for visualizing vector representations and RAG systems. | `all-MiniLM-L6-v2 ` `Transformers` `Next.js` `React Three Fiber (R3F)` `FastAPI` `Supabase` `Gemini API` `TypeScript` `Three.js` | <a href="https://vectorscape-embedding-space.vercel.app/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **Medicare Voice Agent** | AI-powered healthcare voice assistant with speech interaction capabilities. | `Eleven Labs` `Python` `FastAPI` | <a href="https://medicare-voice-agent.vercel.app/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **Eraeliya Chatbot** | Intelligent chatbot designed for conversational assistance and customer engagement. | `Python` `LangChain` `React` | <a href="https://eraeliya-chatbot-demo.vercel.app/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **ACTS Sri Lanka AI Chat** | AI-powered conversational platform developed for Legal ACTS of Sri Lanka. | `RAG` `Azure` `LangChain.js` `GPT-4o mini` | <a href="https://lively-meadow-0b6650b0f.1.azurestaticapps.net/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **Neptune Restaurant Website** | UI/UX expriment on a modern sleek restaurant website featuring responsive design and user-friendly navigation. | `HTML5` `CSS3` `JavaScript` | <a href="https://scythe410.github.io/Restauarnt-Website-NEPTUNE/"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+| **RedQueen Protocol** | Methodology and training protocol for developing an efficient, sub-8B parameter Sinhala Small Language Model. | `LLama` `Python` `PyTorch` `HuggingFace` `Transformers` | <a href="https://github.com/scythe410/Below-8B-Sinhala-LLM-Training---RedQueen-Protocol"><img src="https://img.shields.io/badge/CLICK%20HERE-000000?style=for-the-badge" width="200" alt="Click Here"></a> |
+
+</div>
